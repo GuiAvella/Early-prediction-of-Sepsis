@@ -1,0 +1,9 @@
+# Manifest for train_concate
+# Total rows: 552839
+# Format: csv
+# Chunks: 2
+
+# Reconstruct with:  python split_data.py --reconstruct
+
+train_concate_part001.csv
+train_concate_part002.csv

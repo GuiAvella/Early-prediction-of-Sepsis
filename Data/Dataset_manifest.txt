@@ -1,0 +1,10 @@
+# Manifest for Dataset
+# Total rows: 1552210
+# Format: csv
+# Chunks: 3
+
+# Reconstruct with:  python split_data.py --reconstruct
+
+Dataset_part001.csv
+Dataset_part002.csv
+Dataset_part003.csv
