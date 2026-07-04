@@ -1,1 +1,0 @@
-Namespace(experiment='seq12_mask', mask=True, predlen=6, seqlen=12)
